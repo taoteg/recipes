@@ -1,6 +1,6 @@
 # Recipes
 
-- #1 Original San Antonio Chili
+- [#1 Original San Antonio Chili](recipes/SanAntonioChili.md)
 
 
 ## References
