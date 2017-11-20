@@ -1,6 +1,8 @@
 # #1 Original San Antonio Chili
 
-__'The Chili Queens of San Antonio' Oct. 15, 2004 (NPR)__
+__'The Chili Queens of San Antonio'__
+
+*Oct. 15, 2004 (NPR)*
 
 *From the research library of the Institute of Texan Cultures comes this chili queen recipe (slightly updated for shopping convenience).*
 
