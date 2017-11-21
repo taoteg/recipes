@@ -81,8 +81,7 @@ Serve as separate dish.
 #### If You Know Beans About Chili, You Know That Chili Has No Beans
 
 __*Ken Finlay*__
-
-*Singer, songwriter, and owner of Cheatham Street Warehouse - a music hall in San Marcos, written in 1976)*
+- *[Singer, songwriter, and owner of Cheatham Street Warehouse - a music hall in San Marcos, Texas - written in 1976]*
 
 *You burn some mesquite and when the coals get hot, you bunk up some meat and you throw it on a pot.*
 
