@@ -61,7 +61,7 @@ Serve as separate dish.
 
 ### Fun Facts
 
-- Inclusion of beans in a chili recipe is grounds for disqualification according to the __[official rules](https://www.prismnet.com/~wallen/chili/ics-rules.html)__ of the International Chlii Cookoff (same goes with the Terlingua Cook-Off)
+- Inclusion of beans in a chili recipe is grounds for disqualification according to the __[official rules](https://www.prismnet.com/~wallen/chili/ics-rules.html)__ of the International Chlii Cookoff (same goes with the long-running __[Terlingua Chili Cook-Off](http://www.abowlofred.com/Tolbert_Rules.htm)__).
 
 - Will Rogers (1879-1935), popular actor, cattleman, banker, and journalist, called chili “bowl of blessedness.”
 
