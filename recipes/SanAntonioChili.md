@@ -4,7 +4,7 @@ __'The Chili Queens of San Antonio'__
 
 *Oct. 15, 2004 (NPR)*
 
-*From the research library of the Institute of Texan Cultures comes this chili queen recipe (slightly updated for shopping convenience).*
+*From the research library of the Institute of Texan Cultures comes this chili queen recipe (slightly updated for shopping convenience). [Original Recipe](https://www.npr.org/templates/story/story.php?storyId=4108397)*
 
 ## Ingredients
 
@@ -107,4 +107,3 @@ __*Ken Finlay*__
 - http://www.abowlofred.com/documents/2014/RULES_Updated_Sept_2014.pdf
 - https://whatscookingamerica.net/History/Chili/ChiliHistory.htm
 - http://www.amaranthpublishing.com/Chili.htm
-- [Original Recipe](https://www.npr.org/templates/story/story.php?storyId=4108397)
