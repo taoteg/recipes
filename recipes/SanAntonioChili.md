@@ -38,7 +38,9 @@ __'The Chili Queens of San Antonio'__
     - *CAUTION: Be wary of the oils form the seeds and spines - they can cause contact burns if you have sensitive skin or prolongued exposure.*
 
 
-6. Grind chiles in molcajete and add oregano with salt to mixture.
+6. Grind chiles in molcajete and add oregano, chili powder and salt to mixture.
+
+7. Add spices and peppers to chili and stir in thoroughly.
 
 7. Simmer another 1-2 hours.
 
