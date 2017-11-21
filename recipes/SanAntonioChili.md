@@ -15,9 +15,9 @@ __'The Chili Queens of San Antonio'__
 - 3 medium-sized onions, chopped
 - 6 garlic cloves, minced
 - 1 quart water
-- 4 acho chiles
-- 1 serrano chile
-- 6 dried red chiles
+- 4 anaheim chiles *(500 - 2,500 Scoville Scale)*
+- 6 dried red guajillo chiles *(2,500 - 5,000 Scoville Scale)*
+- 1 serrano chile *(6,000 - 23,000 Scoville Scale)*
 - 1 tablespoon comino seeds, freshly ground
 - 2 tablespoons Mexican oregano
 - 2 tablespoons San Antonio dark chili powder
