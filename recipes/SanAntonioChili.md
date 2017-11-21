@@ -107,3 +107,5 @@ __*Ken Finlay*__
 - http://www.abowlofred.com/documents/2014/RULES_Updated_Sept_2014.pdf
 - https://whatscookingamerica.net/History/Chili/ChiliHistory.htm
 - http://www.amaranthpublishing.com/Chili.htm
+- https://www.cayennediane.com/the-scoville-scale/
+- http://pocketchangegourmet.com/12-essential-chile-peppers-for-mexican-cooking/
