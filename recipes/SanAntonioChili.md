@@ -97,7 +97,9 @@ __*Ken Finlay*__
 
 *Chili was God’s gift to Texas (or maybe it came from down below).*
 
-*And chili doesn’t go with macaroni, and dammed Yankee’s don’t go with chili queens; and if you know beans about chili, you know that chili has no beans.*
+*And chili doesn’t go with macaroni, and dammed Yankee’s don’t go with chili queens;*
+
+*And if you know beans about chili, you know that chili has no beans.*
 
 #### References
 
