@@ -1,7 +1,7 @@
 # Recipes
 
-- [#1 Original San Antonio Chili](recipes/SanAntonioChili.md)
-
+- [Original San Antonio Chili](recipes/SanAntonioChili.md)
+- [Southern Fried Chicken](recipes/SouthernFriedChicken.md)
 
 ## References
 

@@ -1,4 +1,8 @@
-# #1 Original San Antonio Chili
+# Original San Antonio Chili
+
+## Description
+
+Original San Antonio style chili as made famous by the San Antonio Chili Queens.
 
 __'The Chili Queens of San Antonio'__
 
@@ -42,24 +46,23 @@ __'The Chili Queens of San Antonio'__
 
 7. Add spices and peppers to chili and stir in thoroughly.
 
-7. Simmer another 1-2 hours.
+8. Simmer another 1-2 hours.
 
-8. Remove suet casing and skim off some fat.
+9. Remove suet casing and skim off some fat.
 
-9. Serve it up or move chili to a slow-cooker for further over-night cooking (low about 6 hours).
+10. Serve it up or move chili to a slow-cooker for further over-night cooking (low about 6 hours).
 
     - *NOTE: You may need to add another 1-2 cups of water to chili for overnight cooking if on high. It will reduce some.*
 
+11. Add fixins and enjoy!
 
-10. Add fixins and enjoy!
 
-
-### Tips
+## Tips
 
 Never cook frijoles with chilies and meat.
 Serve as separate dish.
 
-### Fun Facts
+## Fun Facts
 
 - Inclusion of beans in a chili recipe is grounds for disqualification according to the __[official rules](https://www.prismnet.com/~wallen/chili/ics-rules.html)__ of the International Chlii Cookoff (same goes with the long-running __[Terlingua Chili Cook-Off](http://www.abowlofred.com/Tolbert_Rules.htm)__).
 
@@ -101,7 +104,7 @@ __*Ken Finlay*__
 
 *And if you know beans about chili, you know that chili has no beans.*
 
-#### References
+## References
 
 - https://www.prismnet.com/~wallen/chili/ics-rules.html
 - http://www.abowlofred.com/documents/2014/RULES_Updated_Sept_2014.pdf
